@@ -1,0 +1,45 @@
+body { margin: 0;
+    width: auto;
+    height: auto;
+    background-color: aliceblue;
+  background-image: url(https://i.pinimg.com/736x/7b/1b/93/7b1b937039e441c0a2a63792fb0b1337.jpg);
+}
+
+
+
+h1 { font-family: inherit;
+  font-size: 30px;
+    color: navy;
+}
+
+h2 {
+    font-family: monospace;
+    font-size: 25px;
+    color: blue;
+    text-align: center;
+    margin: 0
+       
+
+  
+}
+
+h3 {
+  color: greenyellow;
+    font-size: 17px;
+    text-align: center;
+    margin: 0;
+}
+
+img { width: 450px;
+    height: auto;
+  
+}
+
+section {
+  background-color: #ffffff;
+    width: 90;
+    padding: 30px;
+    margin: 15px; 
+    box-sizing: border-box;
+    
+}
